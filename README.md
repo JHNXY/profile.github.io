@@ -15,6 +15,8 @@ The following link shows the career I hope to do: https://www.seek.com.au/job/51
 
 # Personal Profile:
 The following is the result by Myers-Briggs test:
+
+![Test](https://github.com/JHNXY/profile.github.io/blob/main/test.png)
  
 The test results show that I am suitable to be an advocate. Usually this is the initiator of a project, but it does not mean that I must be a leader. I hope I can do anything right in the project, even things outside of personal work, such as relationship communication between members, help from others in work, and discussions on plans and technologies, etc. In addition to technical matters, I may pay more attention to maintaining the relationship between members and being an initiator of communication.
 
